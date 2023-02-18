@@ -1,0 +1,128 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": false
+  },
+  "profile": {
+    "name": "姓名",
+    "email": "861907286@qq.com",
+    "mobile": "15502978013",
+    "workExpYear": "3",
+    "workPlace": "陕西西安",
+    "positionTitle": "软件开发工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2015.09.01",
+        "2019.06.30"
+      ],
+      "school": "西安科技大学",
+      "major": "地理信息科学",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET6",
+      "award_time": "2017"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "美团",
+      "department_name": "到店平台技术部",
+      "work_time": [
+        "2019.07",
+        "2019.10"
+      ],
+      "work_desc": "1. 负责美团到店事业部devops平台的开发与建设\r\n2. 参与美团开店宝app的日常业务迭代测试\n3. 负责相关测试自动化脚本的开发与建设"
+    },
+    {
+      "company_name": "滴滴",
+      "department_name": "滴滴金融",
+      "work_time": [
+        "2019.10",
+        "2021.03"
+      ],
+      "work_desc": "1. 负责滴滴金融数据平台相关系统业务测试。\n2. 负责滴滴金融相关金融数据的质量保障工作。\n3. 相关系统自动化以及CI脚本的维护与开发。\n4. 开发搭建滴滴金融数据保障平台"
+    },
+    {
+      "company_name": "thoughtworks西安",
+      "department_name": "澳洲事业部",
+      "work_time": [
+        "2021.03"
+      ],
+      "work_desc": "1. 日常与澳洲合作公司技术人员进行相关业务方面的技术沟通. \n2. 参与多个澳洲合作公司相关业务系统的开发与交付工作。\n3. 参与构建相关系统测试流水线的构建与维护。"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "CI/CD",
+      "skill_desc": "",
+      "skill_level": 89
+    },
+    {
+      "skill_name": "JAVA",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "测试自动化",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "Spring",
+      "skill_desc": "",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "React",
+      "skill_desc": "",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "HTML/CSS",
+      "skill_desc": "",
+      "skill_level": 80
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "美团到店devops平台",
+      "project_role": "开发",
+      "project_time": "2019.07 - 2019.10",
+      "project_desc": "该项目对接美团到店事业部所有平台代码，旨于构建从项目开发到上线的全周期流水线。通过流水线将sonar等质量检测工具结合。通过流水线自动化的方式对代码的质量进行检测",
+      "project_content": "1. 参与devops平台的日常开发维护工作，负责多条流水线的构建以及与相关质量工具的集成工作。 2. 参与相关测试报表的开发，将相关测试数据可视化向相关用户进行展示。"
+    },
+    {
+      "project_name": "滴滴金融数据质量保障平台",
+      "project_role": "开发",
+      "project_time": "2019.10 - 2021。03",
+      "project_desc": "该项目旨在通过构建平台的方式将相关数据质量保障工具进行集成与联系，多周期多维度的保障滴滴金融部门相关金融数据的生产质量以及准确性。",
+      "project_content": "1. 负责相关数据质量工具的调研与接入工作，先后对Nifi，dataProfiler等数据质量保障工具进行二次开发并与平台集成。 2. 构建相关数据分级与报警体系，将相关数据根据重要性进行分级并配置相关报警。对数据重复与一致性相关问题进行校验。3. 编写离线sql自动化测试脚本，并将相关脚本与平台进行集成。"
+    },
+    {
+      "project_name": "rea商家数据平台",
+      "project_role": "核心开发者",
+      "project_time": "2021 - 至今",
+      "project_desc": "rea是一家澳洲线上房地产销售公司，该网站与线下房产销售公司合作使得用户可以在线上方便的获取房产信息，商家数据平台向相关合作房产销售代理公司展示线上房产销售以及广告投放反馈等数据，帮助相关公司更好的进行销售策略的制定。",
+      "project_content": "1. 负责系统日常的需求迭代开发。利用typescript语言构建系统的后端服务以及前端服务。2. 搭建相关数据生产流水线，通过流水线的方式将原始数据进行加工成所需数据格式，并将相关向用户进行展示。 3. 负责编写相关单元测试以及集成测试构建相关系统部署流水线，构建相关CI/CD交付体系。"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "对软件开发相关技术充满热情，了解并熟悉敏捷开发交付的流程。对软件测试相关技术和理论充满热情"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
